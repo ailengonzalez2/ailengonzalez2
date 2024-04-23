@@ -3,9 +3,9 @@
 
 Check my [Portfolio](https://ailengonzalez.ar) and [Curriculum Vitae](https://ailengonzalez.ar)
 
-#### Development skils
+#### Development skills
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -15,7 +15,7 @@ Check my [Portfolio](https://ailengonzalez.ar) and [Curriculum Vitae](https://ai
 ![Bootstrap](https://img.shields.io/badge/Tailwind-%20?style=for-the-badge&logo=Tailwind&logoColor=%23ffffff&color=%23323330)
 
 
-#### Design skils
+#### Design skills
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
