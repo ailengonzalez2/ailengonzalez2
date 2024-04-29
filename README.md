@@ -1,7 +1,7 @@
 ### Hey there 👋
  I'm Ailen, UI Developer
 
-Check my [Portfolio](https://ailengonzalez.ar) and [Curriculum Vitae](https://ailengonzalez.ar)
+Check my [Portfolio](https://ailengonzalez.ar) and [Curriculum Vitae](https://cv.ailengonzalez.ar/)
 
 #### Development skills
 
